@@ -1,0 +1,13 @@
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/bin/Debug/netcoreapp3.1/ExtensionTask.deps.json
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/bin/Debug/netcoreapp3.1/ExtensionTask.runtimeconfig.json
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/bin/Debug/netcoreapp3.1/ExtensionTask.runtimeconfig.dev.json
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/bin/Debug/netcoreapp3.1/ExtensionTask.dll
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/bin/Debug/netcoreapp3.1/ExtensionTask.pdb
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.csproj.AssemblyReference.cache
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.AssemblyInfoInputs.cache
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.AssemblyInfo.cs
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.csproj.CoreCompileInputs.cache
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.dll
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.pdb
+/Users/gunelyusubova/Projects/ExtensionTask/ExtensionTask/obj/Debug/netcoreapp3.1/ExtensionTask.genruntimeconfig.cache
